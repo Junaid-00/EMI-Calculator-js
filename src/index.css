@@ -4,9 +4,8 @@
     padding: 10px;
 }
 
-@media (orientation:portrait){
-    .d-flex{
-        display: block;
-       
+@media(orientation:portrait){
+    section{
+        
     }
 }
